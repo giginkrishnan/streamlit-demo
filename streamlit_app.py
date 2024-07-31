@@ -5,7 +5,7 @@ from time import sleep
 # make_sidebar()
 
 def login():
-    st.title("Welcome to Diamond Corp")
+    st.title("Welcome to GGNLIVE")
 
     st.write("Please log in to continue (username `test`, password `test`).")
 
